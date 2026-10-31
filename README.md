@@ -1,24 +1,21 @@
-# Kalkulator Geometri Berbasis Python
+# Proyek Akhir: Kalkulator Geometri Berbasis Python
 
 ## Deskripsi Proyek
 
-Kalkulator Geometri Berbasis Python merupakan program sederhana untuk menghitung luas dan keliling bangun datar. Program ini dibuat untuk membantu pengguna melakukan perhitungan geometri dengan lebih mudah dan tepat.
+Repository ini digunakan untuk menyimpan dokumen perancangan proyek akhir Algoritma dan Pemrograman, yaitu Kalkulator Geometri Berbasis Python. Program dirancang untuk menghitung luas dan keliling bangun datar, meliputi persegi, persegi panjang, segitiga, dan lingkaran.
 
-## Fitur Program
+## Isi Repository
 
-Program ini memiliki beberapa fitur, yaitu:
-1. Menghitung luas dan keliling persegi.
-2. Menghitung luas dan keliling persegi panjang.
-3. Menghitung luas dan keliling segitiga.
-4. Menghitung luas dan keliling lingkaran.
-5. Melakukan validasi input agar nilai ukuran harus positif.
-6. Menyediakan pilihan untuk mengulang atau mengakhiri program.
-
-## Teknologi yang Digunakan
-
-- Bahasa pemrograman: Python
-- Editor: Visual Studio Code
-- Version control: Git dan GitHub
+Repository ini berisi:
+1. Proposal proyek.
+2. Latar belakang dan tujuan proyek.
+3. Ruang lingkup dan kebutuhan program.
+4. Rancangan input, proses, dan output (IPO).
+5. Algoritma dan pseudocode.
+6. Rancangan struktur program dan struktur data.
+7. Rencana pengujian program.
+8. Pembagian tugas anggota kelompok.
+9. Jadwal pelaksanaan proyek.
 
 ## Anggota Kelompok
 
@@ -29,19 +26,12 @@ Program ini memiliki beberapa fitur, yaitu:
 | 3 | Ayu Syarifatu Zahra | 2225250043 |
 | 4 | Zahwa Ajmala Fitriani | 2225250191 |
 
-## Cara Menjalankan Program
+## Repository Implementasi
 
-1. Pastikan Python sudah terpasang di laptop.
-2. Buka folder proyek melalui Visual Studio Code.
-3. Buka terminal pada folder proyek.
-4. Jalankan perintah berikut:
+Implementasi program dan dokumentasi hasil pengujian dilanjutkan pada repository P15 berikut:
 
-```bash
-python src/main.py
-```
+https://github.com/auliasftri455-lgtm/implementasi-kalkulator-geometri
 
-5. Ikuti petunjuk menu yang ditampilkan oleh program.
-
-## Repository GitHub
+## Repository P14
 
 https://github.com/auliasftri455-lgtm/proyek-akhir-kalkulator-geometri
