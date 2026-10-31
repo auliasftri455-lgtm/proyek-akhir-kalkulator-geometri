@@ -194,16 +194,13 @@ proyek-akhir-kalkulator-geometri/
 
 Dalam pembuatan program Kalkulator Geometri, terdapat beberapa jenis tipe data yang digunakan, yaitu:
 
-1. **Integer (int)**  
-   Digunakan untuk menyimpan pilihan menu yang dimasukkan oleh pengguna.
-
-2. **Float**  
+1. **Float (float)**  
    Digunakan untuk menyimpan ukuran bangun datar, seperti sisi, panjang, lebar, alas, tinggi, jari-jari, serta hasil perhitungan luas dan keliling.
 
-3. **String (str)**  
-   Digunakan untuk menyimpan data berupa teks, seperti pilihan menu dan jawaban pengguna ketika ditanya apakah ingin melakukan perhitungan kembali.
+2. **String (str)**  
+   Digunakan untuk menyimpan data berupa teks, seperti pilihan menu dan jawaban pengguna.
 
-4. **Boolean (bool)**  
+3. **Boolean (bool)**  
    Digunakan untuk menyimpan kondisi benar atau salah, misalnya untuk menentukan apakah input yang dimasukkan valid.
 
 Penggunaan tipe data tersebut disesuaikan dengan kebutuhan program agar proses pengolahan data dapat berjalan dengan baik.
@@ -217,7 +214,7 @@ Pengujian dilakukan untuk memastikan setiap fitur program dapat berjalan sesuai 
 | 1 | Menghitung persegi | Sisi = 5 | Luas = 25 dan keliling = 20 |
 | 2 | Menghitung persegi panjang | Panjang = 8, lebar = 4 | Luas = 32 dan keliling = 24 |
 | 3 | Menghitung segitiga | Alas = 6, tinggi = 4, sisi = 5, 5, 6 | Luas = 12 dan keliling = 16 |
-| 4 | Menghitung lingkaran | Jari-jari = 7 | Luas = 154 dan keliling = 44 (menggunakan π = 22/7) |
+| 4 | Menghitung lingkaran | Jari-jari = 7 | Luas ≈ 153,94 dan keliling ≈ 43,98 |
 | 5 | Memasukkan nilai negatif | Sisi = -5 | Program menampilkan pesan kesalahan |
 | 6 | Memasukkan nilai nol | Jari-jari = 0 | Program menampilkan pesan kesalahan |
 | 7 | Memasukkan sisi segitiga tidak valid | Sisi = 2, 3, 6 | Program menolak input karena tidak memenuhi syarat segitiga |
